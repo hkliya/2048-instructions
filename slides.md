@@ -9,7 +9,7 @@ controls: true
 --
 
 # Hack Day
-## Create your own 2048 game in 10 hours
+## Create your own 2048 game in step by step
 
 --
 
