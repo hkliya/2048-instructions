@@ -16,9 +16,9 @@ controls: true
 ### 怎么玩
 * 热身
 * 环境检查
-* 2 Sessions
+* 3 Sessions
 * 吃饭饭
-* 5 Sessions
+* 6 Sessions
 * 回顾
 
 --
@@ -54,6 +54,7 @@ controls: true
 * JavaScript
 * Pixi.js
 * 引入外部依赖
+* 画出标题
 --
 # 什么是 HTML？
 --
@@ -75,4 +76,42 @@ controls: true
 ### Pixi.js
 <img src='./images/pixi.png' width="100%">
 --
-
+### 画出标题
+* PIXI 显示文字
+--
+### Session 2 - 画出游戏主界面
+* 程序 = 数据结构 + 算法
+* 数组
+--
+### Session 3 - 开始游戏
+* 产生随机数
+* 画出数字
+--
+### Session 4 - 向右移动方块
+* 事件监听
+* 回调函数
+* 移动元素
+--
+### Session 5 - 合并方块
+* 算法
+--
+# 思考 5 分钟...
+--
+### Session 6 -  向其他方向移动
+* 算法
+--
+# 思考 5 分钟...
+--
+### Session 7 - 重构
+* 是什么？
+* 为什么？
+* 怎么做？
+--
+### Session 8 - 计分、结束判定
+* 累计分数
+* 结束判定
+* 个性化
+--
+### Session 9 - 部署
+* Github Pages
+* Ship it!
