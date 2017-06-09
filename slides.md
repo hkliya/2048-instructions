@@ -44,3 +44,35 @@ controls: true
 * 重构
 * 计分、结束判定
 * 部署
+
+--
+
+### Session 1 - 画出游戏标题
+* HTML
+* .gitignore
+* CSS
+* JavaScript
+* Pixi.js
+* 引入外部依赖
+--
+# 什么是 HTML？
+--
+# 程序员和浏览器之间的共同语言
+## 程序员通过编写 HTML 告诉浏览器想要展示什么
+--
+# 什么是 CSS？
+--
+<img src="./images/withoutcss.png" width="100%">
+--
+<img src="./images/withcss.png" width="100%">
+--
+# 程序员通过 CSS 告诉浏览器如何让 HTML 更好看
+--
+# 什么是 JavaScript？
+--
+# 程序员用 JavaScript 告诉浏览器如何与用户互动
+--
+### Pixi.js
+<img src='./images/pixi.png' width="100%">
+--
+
