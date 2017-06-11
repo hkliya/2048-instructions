@@ -47,14 +47,15 @@ controls: true
 
 --
 
-### Session 1 - 画出游戏标题
+### Session 1 - 初始化项目 
 * HTML
-* .gitignore
 * CSS
 * JavaScript
 * Pixi.js
 * 引入外部依赖
-* 画出标题
+* Git
+* .gitignore
+* 部署到 Github Pages
 --
 # 什么是 HTML？
 --
@@ -79,13 +80,17 @@ controls: true
 ### 画出标题
 * PIXI 显示文字
 --
-### Session 2 - 画出游戏主界面
+### Session 2 - 画出游戏标题和主界面
 * 程序 = 数据结构 + 算法
-* 数组
+* 数组初始化
+* 数组访问
+* 逻辑和展现分离
+* 查 API 文档
+* 显示文本
+* 显示图形
 --
-### Session 3 - 开始游戏
+### Session 3 - 开始游戏，随机放入两个数字
 * 产生随机数
-* 画出数字
 --
 ### Session 4 - 向右移动方块
 * 事件监听
@@ -102,16 +107,7 @@ controls: true
 --
 # 思考 5 分钟...
 --
-### Session 7 - 重构
-* 是什么？
-* 为什么？
-* 怎么做？
---
-### Session 8 - 计分、结束判定
+### Session 7 - 计分、结束判定
 * 累计分数
 * 结束判定
 * 个性化
---
-### Session 9 - 部署
-* Github Pages
-* Ship it!
